@@ -1,0 +1,16 @@
+{
+  "name": "botbotlist",
+  "version": "0.0.1",
+  "description": "",
+  "main": "botlist.js",
+  "scripts": {
+    "test": "node botlist.js"
+  },
+  "author": "botlist",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
